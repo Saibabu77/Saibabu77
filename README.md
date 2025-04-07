@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saibabu77  
-- 👀 I’m interested in data science, machine learning, and solving real-world problems using AI  
-- 🌱 I’m currently learning advanced deep learning techniques, computer vision, and full-stack development  
+- 👀 I’m interested in data science, machine learning, and solving real-world problems 
+- 🌱 I’m currently learning advanced deep learning techniques, computer vision, and LLMS  
 - 💞️ I’m looking to collaborate on data-driven projects, open-source ML tools, AI 
 - 📫 How to reach me: patarls@clarkson.edu   
 
